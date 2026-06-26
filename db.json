@@ -1,0 +1,281 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "eeshaa",
+      "email": "eeshaa@gmail.com",
+      "password": "shiv123"
+    }
+  ],
+  "webtoons": [
+    {
+  "id": 1,
+  "title": "True Beauty",
+ 
+  "genre": "love",
+
+  "image": "https://m.media-amazon.com/images/I/81Y2JLKwXHL._AC_UF1000,1000_QL80_.jpg",
+  "description": "A girl who transforms herself with makeup navigates high school love, friendship, and self-confidence after years of bullying over her looks.",
+  "chapters": 199,
+  "rating": 4.9,
+  "language": "Korean",
+ 
+  "famousFor": "K-Drama Adaptation (2020)",
+
+  "kdramaAdapted": true,
+  "tags": ["Romance", "Comedy", "School Life", "Drama"]
+},
+  
+{
+  "id": "2",
+  "title": "See You in My 19th Life",
+  "genre": "love / Fantasy",
+  "image": "https://m.media-amazon.com/images/I/81a8HUv-PXL._AC_UF1000,1000_QL80_.jpg",
+  "description": "A woman who has been reincarnated eighteen times retains all her past memories, and in her nineteenth life, she reunites with someone she loved centuries ago.",
+  "chapters": 122,
+  "rating": 4.8,
+  "language": "Korean",
+  "famousFor": "K-Drama Adaptation (2023) and Reincarnation Plot",
+  "tags": [
+    "Romance",
+    "Fantasy",
+    "Reincarnation",
+    "Drama"
+  ]
+},
+    
+    {
+      "id": "3",
+      "title": "Solo Leveling",
+      "genre": "Action / Fantasy",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-8PTclrBQimknElptOh8-V5guFzn0AuawWkbEc8doFg&s=10",
+      "description": "The weakest hunter in the world gains a mysterious system that lets him level up infinitely, transforming him into the most powerful being alive.",
+      "chapters": 179,
+      "rating": 4.9,
+      "language": "Korean",
+      "famousFor": "Anime Adaptation and Power Fantasy",
+      "tags": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Supernatural"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "My ID is Gangnam Beauty",
+      "genre": " Drama/love",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS4zbBt0SizL9wnFCYkqfpKOaNRaDWSMteXrbcuHicRw&s=10",
+      "description": "A college student who underwent plastic surgery to escape years of bullying must face new judgment and unexpected love as she starts university life.",
+      "chapters": 73,
+      "rating": 4.7,
+      "language": "Korean",
+      "famousFor": "K-Drama Adaptation (2018)",
+      "kdramaAdapted": true,
+      "tags": [
+        "Romance",
+        "Drama",
+        "School Life",
+        "Slice of Life"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Unordinary",
+      "genre": "Action / Drama",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV_V8REBMrSERP-ssth4ReDVbT2zt7EJLDFju0bvqgMQ&s=10",
+      "description": "In a world where everyone has superpowers, one powerless boy hides his true abilities while navigating a brutal high school social hierarchy.",
+      "chapters": 280,
+      "rating": 4.7,
+      "language": "English",
+      "famousFor": "Power Dynamics and Plot Twists",
+      "tags": [
+        "Action",
+        "Drama",
+        "Superpowers",
+        "School Life"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Business Proposal",
+      "genre": "love / Comedy",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAYUL9Elr-FKswSGJ3SDuBfVFRu_oS1m9muE_0QQ20vw&s=10",
+      "description": "A woman takes her friend's place on a blind date as a favor, only to discover the date is actually her company's CEO in disguise.",
+      "chapters": 89,
+      "rating": 4.8,
+      "language": "Korean",
+      "famousFor": "K-Drama Adaptation (2022)",
+      "kdramaAdapted": true,
+      "tags": [
+        "Romance",
+        "Comedy",
+        "Office",
+        "Drama"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Yumi's Cells",
+      "genre": "Comedy/Fantasy",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoG59DDk7cv3RQGoRf7Fz_-5Cy-6W5_SJSMt3hhD9i0Q&s=10",
+      "description": "A woman's inner thoughts and emotions are portrayed as animated cells living inside her brain, blending live action with animation to explore love and life.",
+      "chapters": 569,
+      "rating": 4.8,
+      "language": "Korean",
+      "famousFor": "K-Drama Adaptation Mixing Live Action and Animation (2021)",
+      "kdramaAdapted": true,
+      "tags": [
+        "Romance",
+        "Slice of Life",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Extraordinary You",
+      "genre": "love ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2TonYlDmZ4lce6LJgtWhSYgR4h9iPsm4a83786AWvJA&s=10",
+      "description": "A high schooler discovers she's a side character in a fantasy comic destined for a tragic fate, and decides to rewrite her own story.",
+      "chapters": 75,
+      "rating": 4.7,
+      "language": "Korean",
+      "famousFor": "K-Drama Adaptation (2019)",
+      "kdramaAdapted": true,
+      "tags": [
+        "Fantasy",
+        "Romance",
+        "Comedy",
+        "School Life"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "All of Us Are Dead",
+      "genre": "Horror / Thriller",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu4lRuK4ZuD523lRYAL8msEG9aFxv1sedV9EHRv-blAQ&s=10",
+      "description": "A high school becomes ground zero for a zombie outbreak, trapping students who must fight to survive while help struggles to reach them.",
+      "chapters": 56,
+      "rating": 4.7,
+      "language": "Korean",
+      "famousFor": "Netflix K-Drama Adaptation (2022)",
+      "kdramaAdapted": true,
+      "tags": [
+        "Horror",
+        "Thriller",
+        "Survival",
+        "School Life"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "What's Wrong with Secretary Kim",
+      "genre": " Drama",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdkW9qO9zzQpJ8LdGaueN0ZgqdS7y6sjSfN8zLR_EfRQ&s=10",
+      "description": "A devoted secretary decides to resign after nine years, sending her narcissistic vice-chairman boss into a panic as he realizes his true feelings for her.",
+      "chapters": 73,
+      "rating": 4.7,
+      "language": "Korean",
+      "famousFor": "K-Drama Adaptation (2018)",
+      "kdramaAdapted": true,
+      "tags": [
+        "Romance",
+        "Comedy",
+        "Office",
+        "Drama"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Down to Earth",
+      "genre": "Drama / Slice of Life",
+      "image": "https://wallpaperaccess.com/full/11019441.jpg",
+      "description": "A spoiled rich girl loses everything and is forced to learn humility, hard work, and genuine love while living among ordinary people.",
+      "chapters": 150,
+      "rating": 4.6,
+      "language": "Korean",
+      "famousFor": "Heartfelt Storytelling and Growth Arc",
+      "tags": [
+        "Romance",
+        "Slice of Life",
+        "Drama",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Purple Hyacinth",
+      "genre": "Mystery / Thriller",
+      "image": "https://miro.medium.com/0*afvoxFpfdZ3Xwgaf.jpg",
+      "description": "A detective with the ability to detect lies teams up with an infamous assassin to uncover the truth behind a series of murders.",
+      "chapters": 170,
+      "rating": 4.9,
+      "language": "English",
+      "famousFor": "Suspenseful Mystery and Stunning Art",
+      "kdramaAdapted": false,
+      "tags": [
+        "Mystery",
+        "Thriller",
+        "Crime",
+        "Suspense"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Nano Machine",
+      "genre": "Sci-Fi / Fantasy",
+      "image": "https://cdn.cultura.com/cdn-cgi/image/width=830/media/pim/TITELIVE/8_9782811699727_1_75.jpg",
+      "description": "A young warrior's life changes forever when advanced nanotechnology from the future is implanted into his body.",
+      "chapters": 280,
+      "rating": 4.9,
+      "language": "Korean",
+      "famousFor": "Futuristic Martial Arts Adventure",
+      "kdramaAdapted": false,
+      "tags": [
+        "Sci-Fi",
+        "Fantasy",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Dr. Frost",
+      "genre": "Mystery / Drama",
+      "image": "https://swebtoon-phinf.pstatic.net/20250204_178/1738645852189TCKkc_JPEG/371.jpg?type=crop540_540",
+      "description": "A brilliant psychologist with exceptional observation skills helps solve complex cases while learning about human emotions.",
+      "chapters": 260,
+      "rating": 4.7,
+      "language": "Korean",
+      "famousFor": "Psychological Mystery",
+      "kdramaAdapted": true,
+      "tags": [
+        "Mystery",
+        "Drama",
+        "Psychology",
+        "Investigation"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Hellbound",
+      "genre": "Thriller",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_rzaNIfhfA4Lq5-lhUsIA6-WNdCp5mEBwNLQKdxNT8w&s=10",
+      "description": "Supernatural beings appear without warning to violently drag people to hell, sparking chaos, fear, and a new religious movement.",
+      "chapters": 60,
+      "rating": 4.7,
+      "language": "Korean,English",
+      "famousFor": "Netflix Adaptation and Dark Themes",
+      "tags": [
+        "Thriller",
+        "Horror",
+        "Supernatural",
+        "Drama"
+      ]
+    }
+    
+  
+
+  ]
+}
