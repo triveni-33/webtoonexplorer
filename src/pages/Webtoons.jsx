@@ -139,7 +139,7 @@ function Webtoons() {
            />
          ))
        ) : (
-         <h1>No webtoons found.</h1>
+         <h1>loading...</h1>
        )}
      </div>
    </>
